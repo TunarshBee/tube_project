@@ -1,0 +1,15 @@
+.detailDis{
+    margin-top: 2%;
+    align-items: center !important;
+    justify-content: center !important;
+    /* margin-left: 5%; */
+    /* width: 112% !important; */
+}
+.h4{
+    background: transparent !important;
+    color: #ffffff !important;
+    border: 1.5px solid #fff !important;
+}
+h4{
+    color: #ffffff !important;
+}
